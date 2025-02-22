@@ -109,6 +109,8 @@ def create_demo():
         ],
         title="✨ AI VoiceCraft: Text-to-Speech Studio 🎙️",
         description="""  
+        **Crafted by MusabirKm**
+        
         🚀 Transform your text into captivating audio! 🚀  
 
         This tool generates AI-powered content and converts it into lifelike speech using Microsoft Edge TTS.  
@@ -132,7 +134,8 @@ def create_demo():
         📖 AI-powered script generation tailored for speech  
         ⚙️ Fine-tune pitch, rate, and delivery style  
 
-        🔗 [Discover more AI tools@MusabbirKM](https://www.example.com/ai-tools)  
+        🔗 [Discover more AI tools@github/musabbirkm](https://github.com/musabbirkm) 
+        🔗 [Follow MusabirKm on Hugging Face](https://huggingface.com/musabbirkm)   
         """,
 
         allow_flagging="never",

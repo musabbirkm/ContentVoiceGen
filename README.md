@@ -87,7 +87,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache version 2.0
 
 ## Gradio Theme
 

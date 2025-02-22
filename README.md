@@ -36,14 +36,15 @@ AI VoiceCraft is a powerful web application built with Gradio that leverages cut
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/musabbirkm/ContentVoiceGen.git
+    cd ContentVoiceGen
     ```
 
 2.  Install the required Python packages:
 
     ```bash
-    pip install gradio requests edge-tts google-generativeai nest_asyncio
+    pip install gradio requests edge-tts google-generativeai nest_asyncio  or
+    pip install -r requirements.txt
     ```
 3. set your API key in the VOCALIS.py file.
 4. Run the application:

@@ -4,6 +4,10 @@
 
 AI VoiceCraft is a powerful web application built with Gradio that leverages cutting-edge AI to generate dynamic text content and transform it into natural-sounding speech. This tool integrates the Gemini AI model for content generation and Microsoft Edge TTS for high-quality audio synthesis.
 
+## Run The App
+To run ContentVoiceGen:
+- [ContentVoiceGent]([https://huggingface.co/spaces/Musabbirkm/DeepHireX](https://huggingface.co/spaces/Musabbirkm/ContentVoiceGen))
+- 
 ## Features
 
 -   **Dynamic Content Generation:**
@@ -92,4 +96,3 @@ This project is licensed under the Apache version 2.0
 ## Gradio Theme
 
 To enhance the user experience, an attractive theme has been applied to the Gradio interface. You can customize the theme further by modifying the Gradio theme settings in the `create_demo` function.
-

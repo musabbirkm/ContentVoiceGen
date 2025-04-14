@@ -6,7 +6,7 @@ AI VoiceCraft is a powerful web application built with Gradio that leverages cut
 
 ## Run The App
 To run ContentVoiceGen:
-- [ContentVoiceGent]([https://huggingface.co/spaces/Musabbirkm/DeepHireX](https://huggingface.co/spaces/Musabbirkm/ContentVoiceGen))
+- [ContentVoiceGent](https://huggingface.co/spaces/Musabbirkm/ContentVoiceGen)
 - 
 ## Features
 
